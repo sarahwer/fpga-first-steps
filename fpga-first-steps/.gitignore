@@ -1,0 +1,20 @@
+# Quartus build/db artifacts (regenerated on compile, not source)
+db/
+incremental_db/
+*.qws
+*.sof
+*.pof
+*.jbc
+*.jam
+*.jdi
+*.jic
+*.qsf.bak
+*.vhd.bak
+*.rpt
+*.summary
+*.smsg
+*.qmsg
+*.done
+*.pin
+*.ppf
+*.cnf
