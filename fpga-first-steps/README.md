@@ -18,6 +18,8 @@ that portfolio.
   - `proj1_top.vhd` -- top-level counter entity tying the design together.
 - `docs/` -- the two reference documents used for the exercise: Altera's Cyclone III programming
   procedure and the official "My First FPGA Design Tutorial".
+- `chenillard/chenillard.vhd` -- a hand-written 4-bit LED chaser ("chenillard"), a later exercise
+  from the same course (a counter-driven shift pattern on a 4-bit output).
 
 ## Toolchain
 
