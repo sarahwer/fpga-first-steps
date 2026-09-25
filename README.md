@@ -5,10 +5,7 @@
 Introductory VHDL / FPGA coursework from my engineering studies in Tunisia (2017-2019), spanning
 two different courses, boards, and toolchains.
 
-This is where my FPGA/HDL exposure started, not a current or advanced project. For my active
-embedded and FPGA work see [robot-joint-stack](https://github.com/sarahwer/robot-joint-stack)
-(FreeRTOS, CAN FD, driver bring-up) and my Xilinx Zynq SoC project (VHDL, Vivado) built alongside
-that portfolio.
+This is where my FPGA/HDL exposure started, not a current or advanced project.
 
 ## What's here
 
